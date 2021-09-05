@@ -1,0 +1,14 @@
+{
+  "name": "generative-art-node_reproduce",
+  "version": "1.0.0",
+  "description": "Project to recreate from the bottom up \"generative-art-node\" following guidance of Hashlip on Youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.8.0"
+  }
+}
