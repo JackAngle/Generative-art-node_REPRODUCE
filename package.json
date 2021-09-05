@@ -6,9 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "JackAngle156 <lehuythinh156@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "canvas": "^2.8.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JackAngle/Generative-art-node_REPRODUCE.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JackAngle/Generative-art-node_REPRODUCE/issues"
+  },
+  "homepage": "https://github.com/JackAngle/Generative-art-node_REPRODUCE#readme"
 }
